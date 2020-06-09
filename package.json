@@ -1,0 +1,25 @@
+{
+  "name": "api_agenda",
+  "version": "1.0.0",
+  "description": "Consulta de dados de contatos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunnogpcosta/API_contatos.git"
+  },
+  "author": "Brunno Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunnogpcosta/API_contatos/issues"
+  },
+  "homepage": "https://github.com/brunnogpcosta/API_contatos#readme",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^5.1.2",
+    "nedb": "^1.8.0"
+  }
+}
